@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/digitalinnovation/fundamentos_oo/digionebank.iml" filepath="$PROJECT_DIR$/digitalinnovation/fundamentos_oo/digionebank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitalinnovation/api-collections/mainModule (1) (one.digitalinnovation.collections).iml" filepath="$PROJECT_DIR$/digitalinnovation/api-collections/mainModule (1) (one.digitalinnovation.collections).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainModule (2) (one.digitalinnovation.collection).iml" filepath="$PROJECT_DIR$/mainModule (2) (one.digitalinnovation.collection).iml" />
+    </modules>
+  </component>
+</project>
